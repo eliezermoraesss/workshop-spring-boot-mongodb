@@ -1,7 +1,6 @@
 package com.eliezermoraes.workshopmongodb.config;
 
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.TimeZone;
 

@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.eliezermoraes.workshopmongodb.domain.Post;
 import com.eliezermoraes.workshopmongodb.domain.User;
 import com.eliezermoraes.workshopmongodb.dto.UserDTO;
 import com.eliezermoraes.workshopmongodb.services.UserService;

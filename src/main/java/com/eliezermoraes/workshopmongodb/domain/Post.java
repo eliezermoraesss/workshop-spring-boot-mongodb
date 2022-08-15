@@ -23,6 +23,7 @@ public class Post implements Serializable {
 	private AuthorDTO author;
 	private List<CommentDTO> comments = new ArrayList<CommentDTO>();
 	
+	@SuppressWarnings("unused")
 	private Post() {
 	}
 
